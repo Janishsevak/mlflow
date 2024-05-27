@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/mlflow/mlruns/0/18200b288c9a42c6a4535fd168d82ee0/artifacts
+end_time: 1716811795981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18200b288c9a42c6a4535fd168d82ee0
+run_name: incongruous-toad-529
+run_uuid: 18200b288c9a42c6a4535fd168d82ee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716811784317
+status: 3
+tags: []
+user_id: Admin

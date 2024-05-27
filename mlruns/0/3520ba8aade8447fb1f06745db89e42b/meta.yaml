@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/mlflow/mlruns/0/3520ba8aade8447fb1f06745db89e42b/artifacts
+end_time: 1716811651819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3520ba8aade8447fb1f06745db89e42b
+run_name: omniscient-whale-120
+run_uuid: 3520ba8aade8447fb1f06745db89e42b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716811643897
+status: 3
+tags: []
+user_id: Admin
